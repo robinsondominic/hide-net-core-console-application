@@ -1,0 +1,11 @@
+C:\Users\drobinson\source\repos\HideConsoleApp\HideConsoleApp\bin\Debug\netcoreapp2.1\HideConsoleApp.deps.json
+C:\Users\drobinson\source\repos\HideConsoleApp\HideConsoleApp\bin\Debug\netcoreapp2.1\HideConsoleApp.runtimeconfig.json
+C:\Users\drobinson\source\repos\HideConsoleApp\HideConsoleApp\bin\Debug\netcoreapp2.1\HideConsoleApp.runtimeconfig.dev.json
+C:\Users\drobinson\source\repos\HideConsoleApp\HideConsoleApp\bin\Debug\netcoreapp2.1\HideConsoleApp.dll
+C:\Users\drobinson\source\repos\HideConsoleApp\HideConsoleApp\bin\Debug\netcoreapp2.1\HideConsoleApp.pdb
+C:\Users\drobinson\source\repos\HideConsoleApp\HideConsoleApp\obj\Debug\netcoreapp2.1\HideConsoleApp.csprojAssemblyReference.cache
+C:\Users\drobinson\source\repos\HideConsoleApp\HideConsoleApp\obj\Debug\netcoreapp2.1\HideConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\drobinson\source\repos\HideConsoleApp\HideConsoleApp\obj\Debug\netcoreapp2.1\HideConsoleApp.AssemblyInfoInputs.cache
+C:\Users\drobinson\source\repos\HideConsoleApp\HideConsoleApp\obj\Debug\netcoreapp2.1\HideConsoleApp.AssemblyInfo.cs
+C:\Users\drobinson\source\repos\HideConsoleApp\HideConsoleApp\obj\Debug\netcoreapp2.1\HideConsoleApp.dll
+C:\Users\drobinson\source\repos\HideConsoleApp\HideConsoleApp\obj\Debug\netcoreapp2.1\HideConsoleApp.pdb
